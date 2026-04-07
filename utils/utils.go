@@ -1,3 +1,4 @@
+//nolint:revive // package name matches the long-standing directory/package convention
 package utils
 
 const (
